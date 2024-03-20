@@ -16,6 +16,10 @@ Team Members:
 
 6.Mohammed Abdul Rasik(au110121104040)
 
+Website:
+
+![image](https://github.com/Kamaleshwaran11/IBM_E-COMMERCE_WEB/assets/122089113/4174f3fc-acdc-423e-9609-8dcb79b7902d)
+
 Design Thinking:
 
 - Platform Design: Design the platform layout with sections for product categories, individual product pages, shopping cart, checkout, and payment.
@@ -24,5 +28,6 @@ Design Thinking:
 - Shopping Cart and Checkout: Design and develop the shopping cart functionality and a smooth checkout process.
 - Payment Integration: Integrate secure payment gateways to facilitate transactions.
 - User Experience: Focus on providing an intuitive and visually appealing user experience for both artisans and customers.
+  
 
 
