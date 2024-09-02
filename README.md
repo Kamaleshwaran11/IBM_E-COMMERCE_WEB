@@ -2,20 +2,6 @@
 This is a Group Project for Naan Mudhalvan </br>
 project Title :E-Commerce Application on IBM Cloud Foundry
 
-Team Members: 
-
-1.Arshath farwese(au110121104013)
-
-2.Ikram Mustafa Hussain A(au110121104027)
-
-3.Kamaleshwaran(au110121104032)
-
-4.Manoj(au110121104037)
-
-5.Mohammed Abdullah(au110121104039)
-
-6.Mohammed Abdul Rasik(au110121104040)
-
 Website:
 
 ![image](https://github.com/Kamaleshwaran11/IBM_E-COMMERCE_WEB/assets/122089113/4174f3fc-acdc-423e-9609-8dcb79b7902d)
